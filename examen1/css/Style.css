@@ -116,11 +116,6 @@ img{
         margin-top: 0rem;
         padding: 2rem;
         box-sizing: content-box;
-    }
-    .contenido1{
-        display: flex;
-        justify-content: center;
-        min-height:10rem; 
-    }   
+    } 
        
 }
